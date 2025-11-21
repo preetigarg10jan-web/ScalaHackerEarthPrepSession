@@ -1,0 +1,10 @@
+ Fortune(1, "Walmart", "Consumer Goods", "Retail", 523.96, 14.88, 2300000, "Bentonville, AR"),
+    Fortune(2, "Amazon", "Technology", "E-Commerce", 280.52, 11.59, 798000, "Seattle, WA"),
+    Fortune(3, "Apple", "Technology", "Electronics", 260.17, 55.26, 137000, "Cupertino, CA"),
+    Fortune(4, "CVS Health", "Healthcare", "Pharmacy", 256.78, 6.63, 290000, "Woonsocket, RI"),
+    Fortune(5, "UnitedHealth Group", "Healthcare", "Insurance", 242.15, 15.40, 330000, "Minnetonka, MN"),
+    Fortune(6, "ExxonMobil", "Energy", "Oil & Gas", 244.36, 14.34, 72000, "Irving, TX"),
+    Fortune(7, "Berkshire Hathaway", "Financials", "Conglomerate", 247.84, 81.42, 391000, "Omaha, NE"),
+    Fortune(8, "McKesson", "Healthcare", "Pharmacy", 231.05, 1.07, 78000, "Irving, TX"),
+    Fortune(9, "Alphabet", "Technology", "Internet", 161.86, 34.34, 118899, "Mountain View, CA"),
+    Fortune(10, "Ford Motor", "Automotive", "Vehicles", 155.90, 3.62, 190000, "Dearborn, MI")
